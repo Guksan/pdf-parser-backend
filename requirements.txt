@@ -1,6 +1,8 @@
 fastapi
 uvicorn
+python-multipart
+python-dotenv
+PyPDF2
 pytesseract
 pdf2image
-python-multipart
-python-dotenv   # Přidej tuhle řádku
+Pillow
